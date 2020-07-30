@@ -80,7 +80,8 @@ CARACTERÍSTICAS:
 
 **2.	DIAGRAMA ELÉCTRICO**
 
-![](https://github.com/bvalvarado/TRABAJO-EXTRA-1/blob/master/Img/a5.jpg)
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/7.jpg)
 
 
 **3.	LISTA DE COMPONENTES**
@@ -99,7 +100,7 @@ CARACTERÍSTICAS:
 
 •	Software de simulación Virtual Breadboard	V4.46	
 
-![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/6.jpg)
+c
 
 <br>
 
