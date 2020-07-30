@@ -78,7 +78,7 @@ CARACTERÍSTICAS:
 
 <br>
 
-**2.	DIAGRAMA ELÉCTRICO**
+**2.	DIAGRAMA DE CONEXIÓN**
 
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/7.jpg)
