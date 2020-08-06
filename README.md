@@ -106,11 +106,11 @@ CARACTERÍSTICAS:
 
 **3.2	COMPONENTES EN VIRTUAL BREADBOARD**
 
+<br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/6.jpg)
 
-
-
-
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/6.jpg)
 
 <br>
 
