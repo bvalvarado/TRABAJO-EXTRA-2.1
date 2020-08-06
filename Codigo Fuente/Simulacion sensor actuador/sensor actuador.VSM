@@ -1,0 +1,25 @@
+<VBBSolution name="sensor actuador" perspective="VBB-Studio">
+	<LAYOUT currentView="1" >
+	<VIEW id="1">
+		<PANE>[sensor actuador]Source0.SRC</PANE>
+	</VIEW>
+	<VIEW id="2">
+		<PANE>[sensor actuador]Breadboard0.VBB</PANE>
+		<PANE>[sensor actuador]Source0.SRC</PANE>
+	</VIEW>
+	<VIEW id="3">
+		<PANE>[sensor actuador]Source0.SRC</PANE>
+	</VIEW>
+	</LAYOUT>
+<PROJECTS>
+<PROJECT>sensor actuador.SIM</PROJECT>
+<REFERENCES>
+<VBB-EXCLUDES>
+</VBB-EXCLUDES>
+<USER-INCLUDES>
+</USER-INCLUDES>
+<WEB-INCLUDES>
+</WEB-INCLUDES>
+</REFERENCES>
+</PROJECTS>
+</VBBSolution>
