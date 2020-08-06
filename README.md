@@ -183,9 +183,103 @@ En estas líneas de código se declaran las variables que se van a utilizar, en 
 
 <br>
 
+El presente proyecto se basa en la simular cómo interactúan un sensor y un actuador controlados por medio de un microcontrolador ARDUINO UNO. 
+El programa básicamente está compuesto por un sensor de temperatura que al momento que llega a una temperatura determinada se envía un pulso de activación para que se encienda un motor que simula el encendido de un ventilador.
+Toda la simulación se realizó en Virtual Bread Board V4.46.
+
+<br>
+
+1.	Primero se realiza la instalación del simulador Virtual Bread Board V4.46, el instalador se lo puede descargar en el apartado instaladores del repositorio.
+
+<br>
+
+
+<br>
+
+2.	Se descomprime el archivo .rar y se ejecuta el instalador como administrador, el archivo contiene una carpeta crack que una vez finalizada la instalación se debe copiar y pegar en el directorio donde se instaló el programa.
+
+
+<br>
+
+
+<br>
+
+
+3.	Una vez instalado el programa nos situamos en la parte izquierda y seleccionamos todos los elementos necesarios para la implementación del circuito, dichos elementos se encuentran listados en el apartado 3.2 COMPONENTES EN VIRTUAL BREADBOARD.
+
+<br>
+
+
+<br>
 
 
 
+4.	Una vez seleccionados todos los elementos se procede a realizar la conexión de los elementos según el diagrama del apartado “2. DIAGRAMA DE CONEXIÓN”
+
+
+
+<br>
+
+
+<br>
+
+
+5.	Con todas las conexiones realizadas se procede a crear una clase que sería el módulo para la interfaz de programación, para ello dirigirse a la parte superior derecha clic derecho en New Project/Add Java Source Project/
+
+
+<br>
+
+
+<br>
+
+
+6.	Se genera una ventana para la creación de una nueva clase clic en OK.
+
+
+<br>
+
+
+<br>
+
+
+
+
+7.	Se puede observar que se creó un nuevo módulo Source0.SRC, damos clic derecho se este módulo y seleccionamos la opción Add New Java Source File, en la ventana emergente podemos cambiar el nombre de archivo de programación y presionamos OK.
+
+<br>
+
+
+<br>
+
+8.	En la hoja de código que se genera escribimos el código de programación del proyecto, este código se lo puede descargar del repositorio en la parte código fuente simplemente se copia el texto y se pega en la pantalla de programación.
+
+<br>
+
+
+<br>
+
+9.	Guardamos los cambios realizamos presionando el icono de guardar en la parte superior izquierda.
+
+<br>
+
+
+<br>
+
+10.	Finalmente, para ejecutar la simulación presionamos ejecutar que es el icono verde en forma de triángulo situado en la parte superior izquierda.
+
+<br>
+
+
+<br>
+
+11.	Se puede observar que la simulación empieza a ejecutarse en este caso podemos variar la temperatura del sensor moviendo el selector y observar el momento en el que se activa el motor.
+
+
+<br>
+
+
+
+<br>
 
 <br>
 
