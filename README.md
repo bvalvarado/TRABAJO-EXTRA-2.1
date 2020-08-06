@@ -117,8 +117,8 @@ CARACTERÍSTICAS:
 **4.	EXPLICACIÓN DEL CÓDIGO FUENTE**
 
 <br>
-c
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/cod.jpg)
 
 <br>
 
