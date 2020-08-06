@@ -285,6 +285,57 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 **6.	MANUAL DE USUARIO** 
 
+<br>
+
+1.	Primero se realiza la instalación y ejecución del simulador Virtual Bread Board V4.46, el instalador se lo puede descargar en el apartado instaladores del repositorio.
+
+
+<br>
+
+
+
+<br>
+
+
+
+2.	En el repositorio en la sección código fuente descargarse el archivo de simulación.
+
+
+<br>
+
+
+
+<br>
+
+3.	Una vez abierto el simulador, seleccionar la pestaña Existing y en la barrar de direcciones ubicarse en la carpeta donde se realizó la descarga del archivo y seleccionar el archivo de simulación y darle clic en OPEN.
+
+
+<br>
+
+
+
+<br>
+
+4.	Se puede observar que el diagrama de conexión aparece en la pantalla, dicho documento ya tiene incluido el código de programación.
+
+
+<br>
+
+
+
+<br>
+
+5.	Para finalizar le damos clic en iniciar simulación, podemos observar que en efecto el programa se ejecuta sin inconveniente alguno.
+
+<br>
+
+
+
+<br>
+
+6.	Si deseamos variar la temperatura del sensor simplemente cambiamos la posición del indicador del sensor de temperatura y observamos que según la variación se enciendo o paga el motor.
+
+<br>
  
 **7.	BIBLIOGRAFÍA**
 
