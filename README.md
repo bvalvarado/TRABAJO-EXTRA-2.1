@@ -83,6 +83,13 @@ CARACTERÍSTICAS:
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/7.jpg)
 
+<br>
+
+El sensor de temperatura se conectará a los terminales de 5V y GND siendo la patilla central el valor analógico que medirá la temperatura. Los extremos son para alimentación, mientras que el pin central proporciona la medición en una referencia de tensión, a razón de 10 mV por cada grado centígrado.
+
+El pin central del sensor va conectado al puerto A1 del arduino, ya que es un pin de datos, una vez ejecutado el programa la respuesta en ALTO será hacia el pin de salida 13 al cual va conectado la terminal positiva del motor mientras que la otra va conectada a GND.
+
+<br>
 
 **3.	LISTA DE COMPONENTES**
 
@@ -120,6 +127,56 @@ CARACTERÍSTICAS:
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/cod.jpg)
 
+<br>
+
+**import muvium.compatibility.arduino.Arduino;**
+
+Esta es una biblioteca propia del simulador Virtual Bread Board, permite la que el módulo de ARDUINO sea compatible con la interfaz.
+
+<br>
+
+**class Sweep extends Arduino**
+
+Con esta línea de código se inicializa una nueva clase Sweep, se le puede asignar cualquier nombre siempre que se conserve la sintaxis del programa.
+
+<br>
+
+**public void setup**
+
+**pinMode(13, OUTPUT)**
+
+Se declara el pin de salida o de respuesta en este caso el pin 13 es el que accionará al actuador dependiendo de la señal enviada por el sensor.
+
+<br>
+
+**public void loop**
+
+Esta es la parte central del programa, es aqui donde se controla las variables que rigen el comportamiento de los elementos del circuito.
+
+<br>
+
+**float temperatura = analogRead(0)**
+
+**float milivoltios = ( temperatura / 1023 ) * 5000**
+
+**temperatura = milivoltios / 10**
+
+En estas líneas de código se declaran las variables que se van a utilizar, en vista que el sensor de temperatura mide a razón de 10 mV por cada grado centígrado, declaramos las variables como float y se emplea la relación de temperatura respecto a los milivoltios para identificar el rango de medición del sensor.
+
+
+<br>
+
+**if (temperatura > 25 )** 
+	
+ **digitalWrite(13, HIGH)**
+
+**else if (temperatura < 20)** 
+
+**digitalWrite(13, LOW)**
+   
+ En estas líneas de código se define mediante un if-else el rango de temperatura en el que va ha operar el actuador respecto al sensor, si es mayor a 25 grados centígrados el puerto 13 se va ha activar, mientras que si la temperatura es menor a 20 grados centígrados el puerto 13 se apaga.
+   
+   
 <br>
 
 **5.	EJECUCIÓN DEL PROYECTO** 
