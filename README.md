@@ -108,9 +108,9 @@ CARACTERÍSTICAS:
 
 <br>
 
-![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/6.jpg)
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/c1.jpg)
 
-![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/6.jpg)
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/c2.jpg)
 
 <br>
 
