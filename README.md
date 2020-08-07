@@ -117,6 +117,10 @@ Para acceder a ellos simplemente se debe dar clic sobre el dispositivo deseado y
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/v2.jpg)
 
+<br>
+
+Para hacer referencia a las categorías más representativas tenemos el siguiente gráfico de cada categoría con sus respectivos elementos:
+
 
 
 
