@@ -92,6 +92,28 @@ El simulador cuenta con varias librerias útiles para realizar el diseño de un 
 
 <br>
 
+**BARRA DE MENU**
+
+Son varias opciones en su mayoría de edición, quizá las opciones más representativas de este menú serían la opción para guardar el proyecto y el botón de compilar o iniciar simulación representado con un PLAY de color verde.
+
+**PANTALLA DE DISEÑO**
+
+Prácticamnete es nuestro espacio de trabajo, aquí se va ha realizar todo el diseño, implementación y conexiones del circuito.
+
+**MAPA DE NAVEGACIÓN**
+
+Es un indicador que ayuda al usuario a identificar en que lugar de la interfaz esta generando cambios o guardando información, es de gran ayuda al momento de detectar en que sección se cometió errores.
+
+**MÓDULO DE PROGRAMACIÓN**
+
+Este módulo se divide en dos partes la pantalla de progración que es donde escribimos las líneas de código y la pantalla de errores, esta pantalla nos ayudan a identificar cualquier tipo de error que se pueda generar al momento de escribir el código.
+
+
+**MENÚ DE COMPONENTES**
+
+Es una parte vital del simulador, aquí se encuentran todas las librerías de componentes existentes en Virtual BreadBoard desde los más básicos situados en la parte superior hasta elementos más sofisticados.
+
+Para acceder a ellos simplemente se debe dar clic sobre el dispositivo deseado y clic en la pantalla de diseño, de esta manera se puede seleccionar cualquier elemento, en el caso de los elemnetos más complejos se encuentran clasificados por categorías según su función.
 
 
 
