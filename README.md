@@ -341,7 +341,7 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
-![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m1.1.jpg)
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m7.jpg)
 
 <br>
 
@@ -363,7 +363,7 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
-
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m3.jpg)
 
 <br>
 
@@ -372,7 +372,7 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
-
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m4.jpg)
 
 <br>
 
@@ -380,7 +380,7 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
-
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m5.jpg)
 
 <br>
 
@@ -388,6 +388,10 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
  
+ ![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m6.jpg)
+ 
+<br>
+
 **7.	BIBLIOGRAFÍA**
 
 <br>
