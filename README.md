@@ -337,18 +337,24 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
-
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m1.jpg)
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m1.1.jpg)
 
+<br>
 
 2.	En el repositorio en la sección código fuente descargarse el archivo de simulación.
 
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m2.jpg)
 
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/m2.1.jpg)
 
 <br>
 
