@@ -60,12 +60,16 @@ Los actuadores van conectados a las salidas de Arduino.
 
 Virtual Breadboard (VBB) es un emulador de circuitos integrados de tablero. También es capaz de funcionar como un entorno de desarrollo para microcontroladores. La aplicación se puede utilizar para desarrollar y depurar los microcontroladores y emulando circuitos, la programación de los paneles de control para aplicaciones embebidas, o incluso la creación de documentación para los circuitos.
 
-Es un programa para el desarrollo de circuitos digitales de factor de forma de tablero y crear el software microcontrolador que los inicia. 
+Es un programa para el desarrollo de circuitos digitales en forma de tablero que permite crear software para  microcontrolador, se lo puede descargar en el siguiente enlace:
+
+
+https://drive.google.com/file/d/1D8h9YMVnXV7pVNS0BMS18ocab3cW8D4e/view?usp=sharing
 
 
 ![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/4.jpg)
 
-CARACTERÍSTICAS: 
+
+**CARACTERÍSTICAS:** 
 
 •	Una interfaz intuitiva que podría ser utilizado fácilmente por cualquier persona que sabe lo que están haciendo.
 
@@ -74,6 +78,25 @@ CARACTERÍSTICAS:
 •	Muestra el registro de errores, mientras que el circuito está emulando para que pueda ver lo que salió mal en tiempo real.
 
 •	Requiere Java JRE, .NET Framework y Arduino.
+
+
+<br>
+
+**COMPONENTES PRINCIPALES DE VIRTUAL BREADBOARD V4.46**
+
+El simulador cuenta con varias librerias útiles para realizar el diseño de un circuito electrónico básico a intermedio, una ventaja del simular es que cuenta con un módulo de programción en el cual se puede ingresar o digitar código para controlar microcontroladores como ARDUINO o PIC, además cuenta varias librerías con diversos componentes como integrados, motores, sensores incluso memorias RAM.
+
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/v1.jpg)
+
+<br>
+
+
+
+
+
+
 
 
 <br>
