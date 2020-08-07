@@ -193,6 +193,12 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e1.jpg)
+
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e2.jpg)
+
 
 <br>
 
@@ -201,13 +207,25 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e3.jpg)
+
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e4.jpg)
+
 
 <br>
 
 
-3.	Una vez instalado el programa nos situamos en la parte izquierda y seleccionamos todos los elementos necesarios para la implementación del circuito, dichos elementos se encuentran listados en el apartado 3.2 COMPONENTES EN VIRTUAL BREADBOARD.
+3.	Una vez instalado el programa le damos doble clic en el icono del programa, elegimos New/OPEN y nos ubicamos en la parte superior izquierda y seleccionamos todos los elementos necesarios para la implementación del circuito, dichos elementos se encuentran listados en el apartado 3.2 COMPONENTES EN VIRTUAL BREADBOARD.
 
 <br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e6.jpg)
+
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e5.jpg)
 
 
 <br>
@@ -220,34 +238,46 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e7.jpg)
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e8.jpg)
+
+<br>
 
 5.	Con todas las conexiones realizadas se procede a crear una clase que sería el módulo para la interfaz de programación, para ello dirigirse a la parte superior derecha clic derecho en New Project/Add Java Source Project/
 
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e9.jpg)
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e10.jpg)
+
+<br>
 
 6.	Se genera una ventana para la creación de una nueva clase clic en OK.
 
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e11.jpg)
 
 <br>
-
-
 
 
 7.	Se puede observar que se creó un nuevo módulo Source0.SRC, damos clic derecho se este módulo y seleccionamos la opción Add New Java Source File, en la ventana emergente podemos cambiar el nombre de archivo de programación y presionamos OK.
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e12.jpg)
+
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e13.jpg)
 
 <br>
 
@@ -255,6 +285,15 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e14.jpg)
+
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e15.jpg)
+
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e16.jpg)
 
 <br>
 
@@ -262,6 +301,11 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
+<br>
+
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e17.jpg)
+
+<br>
 
 <br>
 
@@ -269,6 +313,7 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e18.jpg)
 
 <br>
 
@@ -277,7 +322,7 @@ Toda la simulación se realizó en Virtual Bread Board V4.46.
 
 <br>
 
-
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/e19.jpg)
 
 <br>
 
