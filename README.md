@@ -115,7 +115,7 @@ Es una parte vital del simulador, aquí se encuentran todas las librerías de co
 
 Para acceder a ellos simplemente se debe dar clic sobre el dispositivo deseado y clic en la pantalla de diseño, de esta manera se puede seleccionar cualquier elemento, en el caso de los elemnetos más complejos se encuentran clasificados por categorías según su función.
 
-![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/4.jpg)
+![](https://github.com/bvalvarado/TRABAJO-EXTRA-2.1/blob/master/Img/v2.jpg)
 
 
 
